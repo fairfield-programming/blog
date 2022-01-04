@@ -32,6 +32,12 @@ permalink: "/:year/:month/:day"
 navbar-links:
   Homepage: "https://fairfieldprogramming.org"
 
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
+
 # Build settings
 theme: minima
 plugins:
