@@ -24,8 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   An open-source, non-profit dedicated to the education of children in the world of computer science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.fairfieldprogramming.org" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username: fairfield-programming
 
 permalink: "/:year/:month/:day"
 
