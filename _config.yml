@@ -39,7 +39,7 @@ share-links-active:
   vk: false
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
