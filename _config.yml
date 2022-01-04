@@ -27,6 +27,11 @@ url: "https://blog.fairfieldprogramming.org" # the base hostname & protocol for 
 # twitter_username: jekyllrb
 github_username: fairfield-programming
 
+permalink: "/:year/:month/:day"
+
+navbar-links:
+  Homepage: "https://fairfieldprogramming.org"
+
 # Build settings
 theme: minima
 plugins:
